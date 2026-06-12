@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Profile Card</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+        <div class="card">
+            <img src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=500"
+                alt="Profile">
+
+            <h2>Sarah Johnson</h2>
+            <p>Frontend Developer</p>
+
+            <div class="stats">
+                <div>
+                    <h3 id="followers">120</h3>
+                    <span>Followers</span>
+                </div>
+
+                <div>
+                    <h3 id="likes">45</h3>
+                    <span>Likes</span>
+                </div>
+            </div>
+
+            <div class="buttons">
+                <button id="followBtn">Follow</button>
+                <button id="likeBtn">❤️ Like</button>
+            </div>
+
+            <button id="themeBtn" class="theme-btn">
+                🌙 Toggle Theme
+            </button>
+
+            <p id="message"></p>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+
+</body>
+</html>
