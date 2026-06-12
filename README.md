@@ -4,7 +4,7 @@ Welcome to **Project 3** of the Decode Labs Internship Program. This project foc
 
 ## 🚀 Live Demo
 
-🔗 https://fit-zone-gym-internship-task.netlify.app/
+🔗 https://interactive-web-elements.netlify.app/
 
 ## 📌 Project Overview
 
