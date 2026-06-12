@@ -46,34 +46,7 @@ Through this project, I practiced:
 - Dynamic Content Rendering
 - Responsive Web Design
 - User Interface Enhancement
-
-## ▶️ How to Run the Project
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/UfaqFatima786/Decode-Labs-Interactive-Web-Elements-Project-3.git
-```
-
-### Open the Project
-
-1. Navigate to the project folder.
-2. Open `index.html` in your browser.
-
-OR
-
-Visit the live demo:
-
-🔗 https://fit-zone-gym-internship-task.netlify.app/
-
-## 📸 Project Preview
-
-Add a screenshot of your project here:
-
-```md
-![Project Screenshot](screenshot.png)
-```
-
+.
 ## 📖 Key Concepts Covered
 
 - JavaScript Events
